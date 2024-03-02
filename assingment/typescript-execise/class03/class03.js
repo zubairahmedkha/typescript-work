@@ -1,0 +1,15 @@
+"use strict";
+var num1 = 10;
+num1 += 5;
+console.log(num1);
+var output = 2 == 2;
+console.log(output);
+var num2 = 10;
+var num3 = 5;
+var output1 = num2 == num3 || num2 == num3;
+console.log(output1);
+var userName = "Ali";
+var age = 22;
+var nationality = "pakistani";
+var result = age > 18 && nationality == "pakistani";
+console.log(result);
