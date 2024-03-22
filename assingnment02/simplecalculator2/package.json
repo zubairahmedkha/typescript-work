@@ -1,9 +1,10 @@
 {
-  "name": "simplecalculator2",
-  "version": "1.0.0",
+  "name": "essa-simplecalculator1",
+  "version": "1.0.3",
   "description": "simple second calculator",
   "main": "index.js",
   "type": "module",
+  "bin":"index2.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
