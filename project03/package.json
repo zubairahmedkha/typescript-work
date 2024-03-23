@@ -1,0 +1,20 @@
+{
+  "name": "essakhan-numbergame",
+  "version": "1.1.3",
+  "description": "simle number guess n_game",
+  "main": "index.js",
+  "type": "module",
+  "bin":"n_game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "essakhan-numbergame": "^1.0.0",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
