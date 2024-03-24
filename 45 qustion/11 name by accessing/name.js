@@ -10,3 +10,4 @@ console.log(names[5]);
 console.log(names[6]);
 console.log(names[7]);
 console.log(names[8]);
+//alhamdu lillah
