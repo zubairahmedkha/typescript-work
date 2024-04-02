@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 //list of montains and rivers
 let moutains = ["K2", "Kheerthar", "Mount Everest", "Denali", "Aanbhar"];
 let rivers = ["Nile", "Yangtze", "Amazon", "Mississippi"];

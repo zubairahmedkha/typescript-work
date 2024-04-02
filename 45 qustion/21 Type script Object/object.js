@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 let objectList = {
     "mountain": ["K2", "Evrest", "KHenjhar"],
     "Rivers": ["Nile", "Ganga", "Yamuna"],

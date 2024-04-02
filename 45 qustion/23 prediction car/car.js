@@ -1,6 +1,8 @@
-var car = "subaru";
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+let car = "subaru";
 console.log(car);
-for (var i = 0; i < 5; i++) {
+for (let i = 0; i < 5; i++) {
     if (car == "subaru") {
         console.log("Is car == 'subaru'? I predict True.");
         console.log(car == "subaru");
@@ -8,7 +10,7 @@ for (var i = 0; i < 5; i++) {
 }
 car = "toyota";
 console.log(car);
-for (var i = 0; i < 5; i++) {
+for (let i = 0; i < 5; i++) {
     if (car != "subaru") {
         console.log("Is car == 'subaru'? I predict False.");
         console.log(car == "subaru");
