@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 //dinner table, so now more space is available. Think of three 
 //more guests to invite to dinner.
 let guests = ["Ahmed", "Sayed", "Ali", "Mahmoud", "Haytham"];

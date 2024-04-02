@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 let guest = ["Irshad", "Rashid", "Peer Muhammad", "Essa khan"];
 for (let i = 0; i < guest.length; i++) {
     console.log(`\nDear ${guest[i]}, you are invited to dinner at my

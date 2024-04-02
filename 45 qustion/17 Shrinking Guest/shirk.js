@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 let guestList = ["Irshad", "Rashid", "Ali",
     "A Razzaque"];
 console.log("good news I found a bigger table");

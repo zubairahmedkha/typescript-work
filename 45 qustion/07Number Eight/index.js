@@ -1,5 +1,7 @@
-var a = 4;
-var b = 4;
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+let a = 4;
+let b = 4;
 console.log(a + b);
 a = 16;
 b = 8;
