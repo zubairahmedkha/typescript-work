@@ -10,5 +10,6 @@ console.log("reverse order", fivePlaces);
 console.log(fivePlaces.sort());
 fivePlaces.sort();
 console.log("Alphabatical order", fivePlaces);
-console.log("reverse order", fivePlaces.reverse());
+fivePlaces.reverse();
+console.log("reverse order", fivePlaces);
 export {};
